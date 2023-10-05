@@ -1,3 +1,5 @@
+<img src="https://res.cloudinary.com/wearup/image/upload/v1696546306/WearUp/images/fmArtboard_7-100_tr8tme.jpg" width="100%" style="border-radius: 20px;"></img>
+
 ### Hi there 👋, I'm Flavio
 
 **`Digital Designer`** (Full-stack dev | Graphic | 3D modeling)
