@@ -2,7 +2,7 @@
 
 ### Hi there 👋, I'm Flavio
 
-**`Digital Designer`** (Full-stack dev | Graphic | 3D modeling)
+**`Junior Dev || Digital Designer`** (Full-stack dev | Graphic | 3D modeling)
 
 I've ditched my fashion designer gig to chase a freshly discovered passion that grabbed me right away: software development.
 
