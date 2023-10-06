@@ -30,7 +30,14 @@ Graphic design:
 
 <img align="left" alt="Illustrator" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/illustrator/illustrator-plain.svg"/>
 <img align="left" alt="Photoshop" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-plain.svg"/>
-<img align="left" alt="Figma" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg"/>
+<img align="left" alt="InDesign" width="30px" style="padding-right:10px;" src="https://res.cloudinary.com/wearup/image/upload/v1696573481/WearUp/images/Vector_x2mqjh.png"/>
+<img alt="Figma" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg"/>
 
+3D Software: 
+
+<img align="left" alt="Cinema4D" width="30px" style="padding-right:10px;" src="https://res.cloudinary.com/wearup/image/upload/v1696574676/WearUp/images/image_1_skzpea.png"/>
+<img align="left" alt="Zbrush" width="30px" style="padding-right:10px;" src="https://res.cloudinary.com/wearup/image/upload/v1696574677/WearUp/images/image_2_pijfh5.png"/>
+<img align="left" alt="Clo3D" width="30px" style="padding-right:10px;" src="https://res.cloudinary.com/wearup/image/upload/v1696574678/WearUp/images/image_3_xpm28u.png"/>
+<img alt="Substance_Painter" width="30px" style="padding-right:10px;" src="https://res.cloudinary.com/wearup/image/upload/v1696574679/WearUp/images/image_4_lnsixv.png"/>
 
 
