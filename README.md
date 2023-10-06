@@ -1,4 +1,5 @@
 <img src="https://res.cloudinary.com/wearup/image/upload/v1696546306/WearUp/images/fmArtboard_7-100_tr8tme.jpg" width="100%" style="border-radius: 20px;"></img>
+<a href="https://www.linkedin.com/in/flavio-mammoliti-52138167/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" height=25></a>
 
 ### Hi there 👋, I'm Flavio
 
