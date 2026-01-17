@@ -3,21 +3,29 @@
 
 ### Hi there 👋, I'm Flavio
 
-**`Digital Designer`** (Code | Graphic | 3D modeling)
+**`Unreal Engine Developer`** | **`3D Artist`** | **`Creative Coder`**
 
-| Traded fabrics for pixels. Now I craft real-time 3D experiences — from game AI in Unreal Engine to interactive web graphics with Three.js. Endlessly curious about everything that renders on screen. |
+<table>
+<tr>
+<td width="60%" valign="top">
 
+Traded fabrics for pixels. Now I craft real-time 3D experiences — from game AI in Unreal Engine to interactive web graphics with Three.js. Endlessly curious about everything that renders on screen.
 
-<p align="center">
-<a href="https://www.linkedin.com/in/flavio-mammoliti-52138167/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" height=25></a> 
-<a href="https://www.instagram.com/flav_yo/"><img src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" height=25></a>
+</td>
+<td width="40%" align="right" valign="top">
+
+<a href="https://credential.unrealengine.com/4d90e809-a6a8-40dc-8638-040932b44d9f#acc.lUCntbps"><img src="https://img.shields.io/badge/Unreal%20Engine-Certified-0E1128?style=for-the-badge&logo=unrealengine&logoColor=white" height=25></a>
+<br><br>
+<a href="https://www.linkedin.com/in/flavio-mammoliti-52138167/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" height=25></a>
 <a href="https://github.com/flaz89"><img src="https://img.shields.io/badge/github-black.svg?&style=for-the-badge&logo=github&logoColor=white" height=25></a>
-</p>
 
+</td>
+</tr>
+</table>
 
 ---
 
-### 💻 Languages and Tools
+### 💻 Tools
 
 Programming: 
 
