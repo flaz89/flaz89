@@ -9,8 +9,7 @@
 <tr>
 <td width="60%" valign="top">
 
-Traded fabrics for pixels. Now I craft real-time 3D experiences — from game AI in Unreal Engine to interactive web graphics with Three.js. Endlessly curious about everything that renders on screen.
-
+Traded fabrics for pixels. Now I craft real-time 3D experiences — from Unreal Engine experiences (game/app) to interactive web graphics with Three.js. Endlessly curious about everything that renders on screen.
 </td>
 <td width="40%" align="right" valign="top">
 
